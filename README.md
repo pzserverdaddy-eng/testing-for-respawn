@@ -9,13 +9,13 @@
 
 ## The Plan
 - Spawn in as a normal character
-- Empty two containers that are visible empty - one in spawn house, one nearby that isn't a spawn location
+- Empty a container so it's visually empty
 - Leave town
-- Spend 25+ hours in-game outside of spawn town
-- Return and check for respawn in the two emptied containers
+- Spend 2+ hours in-game outside of spawn town
+- Return and check for respawn in the emptied container
 
 ## The Result
-- Respawn did not work for either
+- Respawn did not work when I returned
 
 ## The Video
-- https://youtu.be/tE11aAHjp-Y
+- https://youtu.be/Bm9yt-Z5n14
